@@ -1,0 +1,8 @@
+{
+  "investments": [
+    { "id": 1, "investment": "Apple", "amount": 150, "quantity": 10 },
+    { "id": 2, "investment": "Google", "amount": 400, "quantity": 5 },
+    { "id": 3, "investment": "Tesla", "amount": 180, "quantity": 8 }
+   
+  ]
+}
